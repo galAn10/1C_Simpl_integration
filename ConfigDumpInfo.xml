@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="Catalog.extНастройкиИнтеграцииСВнешнимиИсточниками" id="27e256ae-4e16-4fa6-87ca-90982b2b172e" configVersion="9141eff76b007b5610f2719451634944eee8e9e7">
+			<Metadata name="Catalog.extНастройкиИнтеграцииСВнешнимиИсточниками.Attribute.ХранилищеНастроекКомпоновкиДанных" id="040db886-8fe7-4046-8ad0-1bf6c892db0b"/>
+			<Metadata name="Catalog.extНастройкиИнтеграцииСВнешнимиИсточниками.Attribute.ИмяМодуля" id="0904b016-d51e-42f9-a70b-69dfe78abc49"/>
+			<Metadata name="Catalog.extНастройкиИнтеграцииСВнешнимиИсточниками.Attribute.ТекстЗапроса" id="12597325-09a6-4ec6-a92d-e590af45c732"/>
+			<Metadata name="Catalog.extНастройкиИнтеграцииСВнешнимиИсточниками.Attribute.ХранилищеСхемыКомпоновкиДанных" id="2b3bd2ff-b525-4e43-8bae-5130969dca81"/>
+			<Metadata name="Catalog.extНастройкиИнтеграцииСВнешнимиИсточниками.Attribute.ХранилищеНастроекПараметровОбработки" id="3972160d-50e8-4714-9deb-23bcd3868c63"/>
+			<Metadata name="Catalog.extНастройкиИнтеграцииСВнешнимиИсточниками.Attribute.СхемаКомпоновкиДанных" id="a4df65c3-6dea-468c-b1fc-630e2fa3bd50"/>
+			<Metadata name="Catalog.extНастройкиИнтеграцииСВнешнимиИсточниками.Attribute.ИдентификаторНастройки" id="a5f449e2-2ac1-4528-aae4-c2c64c5c4b34"/>
+			<Metadata name="Catalog.extНастройкиИнтеграцииСВнешнимиИсточниками.Attribute.ВнешняяОбработка" id="d76deb9d-b78a-4a9e-a09a-d3a22c1c60b0"/>
+		</Metadata>
+		<Metadata name="Catalog.extНастройкиИнтеграцииСВнешнимиИсточниками.Form.ФормаЭлемента" id="b0355d10-9ba0-44b9-abd5-4d3d54a54862" configVersion="0c57c36b4ef9e8b47c89331ac147394baae2f763"/>
+		<Metadata name="Catalog.extНастройкиИнтеграцииСВнешнимиИсточниками.Form.ФормаЭлемента.Form" id="b0355d10-9ba0-44b9-abd5-4d3d54a54862.0" configVersion="4f155cb961bdb0f186b50f863dd33c4f61b9e559"/>
+		<Metadata name="Catalog.extНастройкиИнтеграцииСВнешнимиИсточниками.ManagerModule" id="27e256ae-4e16-4fa6-87ca-90982b2b172e.3" configVersion="742e52b168f72295d2c71875bb439b58fdb6ec8a"/>
+		<Metadata name="Catalog.extНастройкиИнтеграцииСВнешнимиИсточниками.ObjectModule" id="27e256ae-4e16-4fa6-87ca-90982b2b172e.0" configVersion="08bb11506b684b430d4896d14b56100d89cead2f"/>
+		<Metadata name="Catalog.ДополнительныеОтчетыИОбработки" id="b909a8fc-4a08-4036-8150-cf0adc4917c7" configVersion="bce3f01588126e7bc029bbb998cd0443ec34f6d1"/>
+		<Metadata name="CommonModule.extInt_ПримерОбщийМодуль" id="ab065c07-5382-4d13-9bf8-2637750bd4f4" configVersion="61d27062242d6fa7d9cec93bd774a74626cfe359"/>
+		<Metadata name="CommonModule.extInt_ПримерОбщийМодуль.Module" id="ab065c07-5382-4d13-9bf8-2637750bd4f4.0" configVersion="29808a0ffde6d30ef2dd9979da4ee3115c9409ef"/>
+		<Metadata name="CommonModule.extСлужебныйОбменыСерверВнешнееСоединение" id="635b54ef-e906-4f03-a3a7-86cb25a20c68" configVersion="4f59ccbf6ebc923fca88ee7e649b1d6802cfe71d"/>
+		<Metadata name="CommonModule.extСлужебныйОбменыСерверВнешнееСоединение.Module" id="635b54ef-e906-4f03-a3a7-86cb25a20c68.0" configVersion="a47fc8de9c578f5b92b954ebfcc84a11bf0944cf"/>
+		<Metadata name="Configuration.extIntegration" id="43e57f5f-9d1b-4be6-b35b-f7b57edf2e6e" configVersion="9674453dd9ea22df2e4d12f88428dbf8f44ea9ce"/>
+		<Metadata name="DataProcessor.extInt_ПримерОбработка" id="a45ca2a6-39be-44ae-950f-7a287069f493" configVersion="6f83b0a86b4c2c83cd2c23e70dadedf704796fee"/>
+		<Metadata name="DataProcessor.extInt_ПримерОбработка.ManagerModule" id="a45ca2a6-39be-44ae-950f-7a287069f493.2" configVersion="c305f5abcc19ade1baf59fd1078baf45f28f54e3"/>
+		<Metadata name="DataProcessor.extIntegrationWithExternalSystems" id="34541789-7e18-4e49-9769-d74f472b9c41" configVersion="d36ba60707ffcc33802af4f85de92ed630801364"/>
+		<Metadata name="DataProcessor.extIntegrationWithExternalSystems.ObjectModule" id="34541789-7e18-4e49-9769-d74f472b9c41.0" configVersion="39629b7249243ad846e469c718589c699bfefdee"/>
+		<Metadata name="HTTPService.extОбменДанными" id="ede5892c-72a9-46b4-87e9-4703b62bfc93" configVersion="c41a38f0f465940c0fc97749bde60a5c4413b18f">
+			<Metadata name="HTTPService.extОбменДанными.URLTemplate.inner.Method.POST" id="c23d63ee-5d9a-4273-9464-a5000a25c316"/>
+			<Metadata name="HTTPService.extОбменДанными.URLTemplate.inner" id="e8c24352-68ee-4d30-a732-6a2bd0b4e3c1"/>
+		</Metadata>
+		<Metadata name="HTTPService.extОбменДанными.Module" id="ede5892c-72a9-46b4-87e9-4703b62bfc93.0" configVersion="7eb49e48b88ea498941276eee961c00d62699e5b"/>
+		<Metadata name="InformationRegister.extInt_Логирование" id="455363df-ada9-425e-a268-cfbb220aaa4f" configVersion="61d090138ba88aa9c1ee668764a40f9266703d67">
+			<Metadata name="InformationRegister.extInt_Логирование.Resource.Сообщение" id="5e425d23-8ae3-4318-b1fe-9c37b34f9981"/>
+			<Metadata name="InformationRegister.extInt_Логирование.Dimension.Сеанс" id="6d9220b2-ff65-4781-bfb2-cb6f88801a89"/>
+			<Metadata name="InformationRegister.extInt_Логирование.Dimension.ВремяЗапуска" id="a544efae-6799-49d6-80d1-76afd54ab54f"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="50148199-35bf-47d5-ac26-25d7f470b0ec" configVersion="c07fda7e41939771aa797f52c3a05f78fa454143"/>
+		<Metadata name="Role.extInt_ОсновнаяРоль" id="75eff21d-577f-4ab3-aa15-418eede09a4e" configVersion="ed1bf63e06dc9d1bd04ab8d8165b092687f97759"/>
+		<Metadata name="Role.extInt_ОсновнаяРоль.Rights" id="75eff21d-577f-4ab3-aa15-418eede09a4e.0" configVersion="eb96421d8a5c91c64b67c137e1dc3f8e2cdf03e5"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
